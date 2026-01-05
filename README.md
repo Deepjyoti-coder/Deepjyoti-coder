@@ -1,4 +1,5 @@
-# 💫 About Me:<br>🛠 Currently working on: AayuCare, SmartLib, EcoConnect, and multiple UI/UX redesign projects.<br><br>🤝 Collaborate with me on: Frontend development, AI tools, AI agents, GenAI apps, and ML-driven ideas.<br><br>🧩 I focus on: Frontend engineering, AI tools expertise, prompt engineering, and AI/ML experimentation.<br><br>📚 Learning: Full-stack fundamentals, Tailwind, Figma, C, Docker, Kubernetes, and advanced AI workflows.<br><br>💬 Ask me about: Prompt engineering, AI tools, frontend development, chatbots, and rapid prototyping.<br><br>⚡ Fun fact: GDG on Campus Lead who loves turning ideas into polished prototypes—fast.
+# 💫 About Me:
+<br>🛠 Currently working on: AayuCare, SmartLib, EcoConnect, and multiple UI/UX redesign projects.<br><br>🤝 Collaborate with me on: Frontend development, AI tools, AI agents, GenAI apps, and ML-driven ideas.<br><br>🧩 I focus on: Frontend engineering, AI tools expertise, prompt engineering, and AI/ML experimentation.<br><br>📚 Learning: Full-stack fundamentals, Tailwind, Figma, C, Docker, Kubernetes, and advanced AI workflows.<br><br>💬 Ask me about: Prompt engineering, AI tools, frontend development, chatbots, and rapid prototyping.<br><br>⚡ Fun fact: GDG on Campus Lead who loves turning ideas into polished prototypes—fast.
 
 
 ## 🌐 Socials:
