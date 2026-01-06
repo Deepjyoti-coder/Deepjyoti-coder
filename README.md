@@ -40,6 +40,12 @@
 ## 💻 Tech Stack
 <p align="center">
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepjyoti-coder&theme=dark" />
+</p>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -101,12 +107,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepjyoti-coder&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepjyoti-coder&theme=dark" />
-</p>
-
 
 ---
 
@@ -143,8 +143,3 @@ diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
-
-✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=Deepjyoti-coder&icon=0&color=0" /> </p>
