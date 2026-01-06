@@ -95,11 +95,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepjyoti-coder/Deepjyoti-coder/main/github-metrics.svg" />
-</p>
-
 ---
 
 ## 🧩 Developer Mindset
@@ -142,5 +137,3 @@ diff
 </h4>. 🐍 Contribution Snake
 <p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>. Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>. add this too and give me the whole code
-
-## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Deepjyoti-coder&theme=dark&include_all_commits=true&count_private=true" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=Deepjyoti-coder&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepjyoti-coder&theme=dark&layout=compact&include_all_commits=true&count_private=true" /> </p>
