@@ -120,12 +120,6 @@
 @@ while( !success ) { try(); learn(); } @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
-
-✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=Deepjyoti-coder&icon=0&color=0" /> </p>
-
 ## 🧩 Developer Mindset <h4 align="center">
 diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -148,3 +142,9 @@ diff
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
+
+🐍 Contribution Snake
+<p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
+
+✍️ Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <p align="center"> <img src="https://visitcount.itsvg.in/api?id=Deepjyoti-coder&icon=0&color=0" /> </p>
