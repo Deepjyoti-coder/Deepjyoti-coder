@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=290&section=header&text=Deepjyoti%20Saha&fontSize=72&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20AI%20Builder%20%7C%20GDG%20Lead&descAlignY=62&descSize=22&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Deepjyoti%20Saha&fontSize=70&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20AI%20Builder%20%7C%20GDG%20On%20Campus%20Lead&descAlignY=62&descSize=22&animation=fadeIn&fontColor=ffffff)
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=I+build+interfaces+that+feel+alive.;I+ship+AI-powered+ideas+fast.;Frontend+%2B+AI+%2B+Leadership.;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+into+Polished+Prototypes;Frontend+Engineering+%7C+AI+Tools+%7C+GenAI;Build+Fast.+Iterate+Faster." />
 </p>
 
 <img align="right" alt="coding" width="420" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -16,83 +16,96 @@
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-🛠 **Currently working on:** AayuCare • SmartLib • EcoConnect • UI/UX Redesigns  
-🤖 **Building with:** AI tools, AI agents, GenAI apps, ML experiments  
-🎯 **Core focus:** Frontend Engineering + Prompt Engineering + Rapid Prototyping  
-📚 **Learning:** Full-Stack, Tailwind, Figma, C, Docker, Kubernetes  
-⚡ **Leadership:** GDG on Campus Lead — turning ideas into demos, fast
+🛠 **Currently working on:** AayuCare, SmartLib, EcoConnect, and multiple UI/UX redesign projects  
 
-> I don’t chase perfection.  
-> I chase progress and ship value.
+🤝 **Collaborate with me on:** Frontend development, AI tools, AI agents, GenAI apps, and ML-driven ideas  
+
+🧩 **I focus on:** Frontend engineering, AI tools expertise, prompt engineering, and AI/ML experimentation  
+
+📚 **Learning:** Full-stack fundamentals, Tailwind, Figma, C, Docker, Kubernetes, and advanced AI workflows  
+
+💬 **Ask me about:** Prompt engineering, AI tools, frontend development, chatbots, and rapid prototyping  
+
+⚡ **Fun fact:** GDG on Campus Lead who loves turning ideas into polished prototypes—fast  
+
+> Speed matters. Feedback matters. Shipping matters.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
+
 <p align="center">
-  <a href="https://linkedin.com/in/deepjyotisaha102ab4647312">
-    <img src="https://img.icons8.com/ios-filled/50/00F5FF/linkedin.png"/>
-  </a>
   <a href="https://instagram.com/deepjyoti__102__">
-    <img src="https://img.icons8.com/ios-filled/50/00F5FF/instagram-new.png"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/deepjyotisaha102ab4647312">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/DeepjyotiS57791">
-    <img src="https://img.icons8.com/ios-filled/50/00F5FF/twitterx.png"/>
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
   <a href="mailto:deepjyotis373@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/00F5FF/gmail.png"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70"/>
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="70"/>
-</p>
 
-### 🎨 Frontend & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma,storybook,gsap" width="450"/>
-</p>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ⚙️ Backend • Cloud • DB
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,mongodb,mysql,googlecloud" width="450"/>
-</p>
-
-### 🤖 AI • DevOps • Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,jupyter,vercel,netlify,docker,kubernetes" width="450"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepjyoti-coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepjyoti-coder&theme=dark&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepjyoti-coder&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepjyoti-coder&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepjyoti-coder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepjyoti-coder&theme=dark&layout=compact&include_all_commits=true&count_private=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepjyoti-coder&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepjyoti-coder&theme=radical&margin-w=8" />
 </p>
 
 ---
