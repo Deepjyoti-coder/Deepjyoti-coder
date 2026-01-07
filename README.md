@@ -145,7 +145,7 @@ uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    Deepjyoti-coder: ${{ github.repository_owner }}
+    Deepjyoti-coder: ${{ github.Deepjyoti-coder }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
