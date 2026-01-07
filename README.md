@@ -1,3 +1,15 @@
+
+Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Deepjyoti Saha
+=======================================================================================================================================
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [deepjyotis373@gmail.com](mailto:deepjyotis373@gmail.com)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Deepjyoti%20Saha&fontSize=70&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20AI%20Builder%20%7C%20GDG%20On%20Campus%20Lead&descAlignY=62&descSize=22&animation=fadeIn&fontColor=ffffff)
 
 <!-- Typing Animation -->
