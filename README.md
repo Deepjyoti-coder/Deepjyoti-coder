@@ -110,14 +110,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ## 🧩 Developer Mindset
-<h4 align="center">
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@ Programming isn't about what you know @@
-@@ It's about what you can figure out @@
-@@ while( !success ) { try(); learn(); } @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 
 ## 🧩 Developer Mindset <h4 align="center">
 diff
